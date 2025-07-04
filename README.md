@@ -1,12 +1,46 @@
-# React + Vite
+# 🌐 Ask Web 2.0
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive website built to showcase web solutions, services, or a brand using clean UI, engaging visuals, and responsive design principles.
 
-Currently, two official plugins are available:
+🔗 **Live Demo**  
+👉 [View Live Site](https://askweb20.netlify.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Beautiful landing page with responsive layout  
+- Smooth animations with Framer Motion  
+- Interactive forms  
+- Background image effects  
+- Mobile-first design  
+- Modern UI components  
+- FontAwesome icons integration  
+- Built with performance and accessibility in mind
+
+---
+
+## 🧰 Tech Stack
+
+- **React** – for building interactive UI  
+- **Tailwind CSS** – utility-first CSS framework  
+- **Framer Motion** – for animation and transitions  
+- **Vite** – fast build tool for development and production  
+- **Font Awesome** – scalable vector icons  
+
+---
+
+## 📸 Screenshot
+
+![Screenshot of Ask Web 2.0](public/assets/screenshot.png)  
+> 💡 Make sure to add an actual screenshot at the specified path or update the image link accordingly.
+
+---
+
+## 📦 Getting Started
+
+To run this project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/abdulsalamkhan441/ModernUI-.git
